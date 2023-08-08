@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MkBEH6BqD/vbLawlIJ6iUujmDPbGcSz2/cSSsmWMKFzUHy8653CERgxenx/1R1p0vLyLPAaXxvPDo9sojAu1AA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ehdgn\\source\\repos\\BlazorTest\\BlazorTest\\BlazorTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ehdgn\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
+  ],
+  "logs": []
+}
